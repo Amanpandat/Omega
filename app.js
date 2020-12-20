@@ -4,14 +4,14 @@
 ///Edit Under This only
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDtkKUdLztrguWJQRygHUSlA982r686RDQ",
-  authDomain: "amanpndat.firebaseapp.com",
-  databaseURL: "https://amanpndat-default-rtdb.firebaseio.com",
-  projectId: "amanpndat",
-  storageBucket: "amanpndat.appspot.com",
-  messagingSenderId: "945080950717",
-  appId: "1:945080950717:web:72d28df10ce6e78c4d3cd4",
-  measurementId: "G-VYBXP0M78N"
+  apiKey: "AIzaSyAdqP5r-X4lZB5GPoe3sSWn3h2pqf396XI",
+  authDomain: "instacheck-ca9ac.firebaseapp.com",
+  databaseURL: "https://instacheck-ca9ac.firebaseio.com",
+  projectId: "instacheck-ca9ac",
+  storageBucket: "instacheck-ca9ac.appspot.com",
+  messagingSenderId: "247573724314",
+  appId: "1:247573724314:web:90a7631ee6a1968cb33323",
+  measurementId: "G-2JVWHE56SK"
 };
 
      
